@@ -37,7 +37,6 @@ I am continuously improving my skills by building practical projects focused on 
 Certificate: https://www.credly.com/badges/3bb382bf-cd03-4153-81c2-cfa9aa0b5967/public_url
 
 🏆 **Microsoft Certified: Power BI Data Analyst Associate (PL-300) In-Progress**  
-- Skills in data preparation, data modeling, DAX, visualization, and developing interactive Power BI reports.
 
 🏆 **Microsoft Certified: Fabric Analytics Engineer Associate (DP-600) In-Progress**  
 
