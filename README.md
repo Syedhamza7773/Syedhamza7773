@@ -36,11 +36,6 @@ I am continuously improving my skills by building practical projects focused on 
 🏆 **Data Analytics Essentials - Cisco**  
 Certificate: https://www.credly.com/badges/3bb382bf-cd03-4153-81c2-cfa9aa0b5967/public_url
 
-🏆 **Microsoft Certified: Power BI Data Analyst Associate (PL-300) In-Progress**  
-
-🏆 **Microsoft Certified: Fabric Analytics Engineer Associate (DP-600) In-Progress**  
-
-
 ---
 
 ## Experience
